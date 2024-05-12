@@ -53,5 +53,6 @@ function optimizeGraphQLServer(schema) {
   schema._queryType._queryFn = async (root, query, context, variables, operationName) => {}
     const cacheKey = JSON.stringify({ query, variables });
     if (!queryCache.has(cacheKey)) {
-        queryCache.set(cacheKey)}
-}
+      queryCache.set(cacheKey)
+    } 
+  }

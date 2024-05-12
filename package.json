@@ -1,0 +1,23 @@
+{
+  "name": "pro101crupto",
+  "version": "1.0.1",
+  "description": "Testing Framework: Create a testing framework or assertion library that helps developers write and run tests for their codebase efficiently.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/maverik202306/pro101crupto.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pro100crupto": "^1.0.0"
+  }
+}

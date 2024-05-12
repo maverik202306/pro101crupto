@@ -1,20 +1,20 @@
 {
-  "name": "", //pro101crupto
-  "version": "1.0.0", 
-  "description": "", // https://github.com/maverik202306/pro101crupto.git
+  "name": "pro101crupto", 
+  "version": "1.0.1",  
+  "description": "Testing Framework: Create a testing framework or assertion library that helps developers write and run tests for their codebase efficiently.", 
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url":  "https://github.com/maverik202306/pro101crupto.git"
   },
-  "keywords": [ // ключевые слова (необязательно)
+  "keywords": [ 
     "", 
     "",
     ""
   ],
-  "author": "", // автор (необязательно)
+  "author": "", 
   "license": "MIT"
 }
